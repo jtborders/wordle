@@ -1,4 +1,5 @@
 import random
+#for randomness
 
 wordsfile = open("words.txt")
 wordslist = []
